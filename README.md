@@ -1,4 +1,5 @@
 # Curso de Introducción a la Estadística
+![GitHub last commit](https://img.shields.io/github/last-commit/faosorios/Curso-Introduccion-Estadistica)
 
 Este repositorio contiene el material del curso **MAT-041: Probabilidad y Estadística** (Universidad Técnica Federico Santa María).
 
