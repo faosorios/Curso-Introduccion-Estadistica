@@ -12,3 +12,14 @@ La asignatura presenta una introducción rigurosa a los conceptos fundamentales 
 * Casella, G., Berger, R.L. (2002). *Statistical Inference* (2nd Ed.). Duxbury, Pacific Grove.
 * Panaretos, V.M. (2016). *Statistics for Mathematicians: A Rigorous First Course*. Birkhäuser, Laussane.
 * Wasserman, L. (2003). *All of Statistics: A concise course in statistical inference*. Springer, New York.
+
+## Notas de clase
+
+El contenido del curso se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. Las [**notas de clase**](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/notas%20de%20clase/intro-estadistica.pdf) se pueden encontrar en el siguiente [[link]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/notas%20de%20clase/intro-estadistica.pdf)
+
+## Material de clase
+
+Las **diapositivas** para el 2do semestre de 2023 se encuentran disponibles a continuación.
+
+- Clase 0: Introducción [[slides]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/diapositivas/MAT041_slides-00.pdf)
+  
