@@ -25,4 +25,5 @@ Las **diapositivas** para el 2do semestre de 2023 se encuentran disponibles a co
   
 ## Evaluaciones
 
+- **2023**: [[Control 1]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/evaluaciones/MAT041-Q1_2023.pdf), [[Pauta]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/evaluaciones/MAT041-R1_2023.pdf)
 - **2019**: [[Certamen 1]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/evaluaciones/MAT041-C1_2019.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/evaluaciones/MAT041-P1_2019.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/evaluaciones/MAT041-C2_2019.pdf), [[Pauta 2]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/evaluaciones/MAT041-P2_2019.pdf) | [[Certamen 3]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/evaluaciones/MAT041-C2_2019.pdf), [[Pauta 3]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/evaluaciones/MAT041-P3_2019.pdf)
