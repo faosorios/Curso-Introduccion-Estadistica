@@ -22,6 +22,10 @@ El contenido del curso se encuentra en desarrollo y cambios pueden ser introduci
 Las **diapositivas** para el 2do semestre de 2023 se encuentran disponibles a continuación.
 
 - Clase 0: Introducción [[slides]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/diapositivas/MAT041_slides-00.pdf)
+- Clase 1: Calculando probabilidades en algunos modelos discretos y continuos [[slides]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/diapositivas/MAT041_slides-01.pdf)
+- Clase 2: Estadisticas de resumen [[slides]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/diapositivas/MAT041_slides-02.pdf)
+- Clase 3: Tablas de frecuencias [[slides]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/diapositivas/MAT041_slides-03.pdf)
+- Clase 4: Correlacion lineal [[slides]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/diapositivas/MAT041_slides-04.pdf)
   
 ## Evaluaciones
 
