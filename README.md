@@ -19,7 +19,18 @@ El contenido del curso se encuentra en desarrollo y cambios pueden ser introduci
 
 ## Material de clase
 
-Las **diapositivas** para el 2do semestre de 2023 se encuentran disponibles a continuación.
+El **Material de clases** del 2do semestre de 2023 se encuentra disponible en los siguientes enlaces:
+
+- Material 1: Nociones de Probabilidad [[PDF]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/material/MAT041_cap01.pdf)
+- Material 2: Variable Aletoria [[PDF]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/material/MAT041_cap02.pdf)
+- Material 3: Algunas distribuciones de uso comun [[PDF]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/material/MAT041_cap03.pdf)
+- Material 4: Vectores aleatorios [[PDF]] (https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/material/MAT041_cap04.pdf)
+- Material 5: Esperanza y Covarianza [[PDF]] (https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/material/MAT041_cap05.pdf)
+- Material 6: Transformacion de variables aleatorias [[PDF]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/material/MAT041_cap06.pdf)
+- Material 7: Estadistica Descriptiva [[PDF]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/material/MAT041_cap07.pdf)
+- Material 8: Elementos de Estimacion [[PDF]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/material/MAT041_cap08.pdf)
+
+Mientras que las **diapositivas** vistas en clases se encuentran a continuación.
 
 - Clase 0: Introducción [[slides]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/diapositivas/MAT041_slides-00.pdf)
 - Clase 1: Calculando probabilidades en algunos modelos discretos y continuos [[slides]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/diapositivas/MAT041_slides-01.pdf)
