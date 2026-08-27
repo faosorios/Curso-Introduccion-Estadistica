@@ -17,6 +17,10 @@ La asignatura presenta una introducción rigurosa a los conceptos fundamentales 
 
 El contenido del curso se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. Las [**notas de clase**](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/notas%20de%20clase/intro-estadistica.pdf) se pueden encontrar en el siguiente [[link]](https://github.com/faosorios/Curso-Introduccion-Estadistica/blob/main/notas%20de%20clase/intro-estadistica.pdf)
 
+## Tareas (MAT-034)
+
+- Tarea 1: Fecha de entrega, 3 de Septiembre [[PDF]](evaluaciones/MAT034_T1.pdf)
+
 ## Material de clase
 
 El **Material de clases** del 2do semestre de 2023 se encuentra disponible en los siguientes enlaces:
